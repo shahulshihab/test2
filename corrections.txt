@@ -1,0 +1,13 @@
+1.We need add type="text/javascript" attribute when we use script tag.
+2.We should html element inside body of document.
+3.We can place the script in the <head> or <body>.
+4.Added extra open bracket When we split array url .
+5.Not "=" assign opreator.We have to use condtional "==" oprator.
+6.The <center> element is deprecated in HTML 4.01.We can Use CSS to center text.
+7.When we get title funtion return need title.
+8.Create table Condo must add primary key.
+9.PropertyData class return what we declare properties.
+10.We should not call potected variable outside of class. 
+ 
+
+ 
